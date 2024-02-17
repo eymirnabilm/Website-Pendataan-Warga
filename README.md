@@ -3,7 +3,6 @@ Website CRUD Pendataan Warga Sederhana
 Website ini adalah aplikasi CRUD (Create, Read, Update, Delete) yang memungkinkan pengguna untuk melakukan pendataan warga secara sederhana. 
 Website ini dikembangkan menggunakan bahasa pemrograman PHP untuk logika backend, HTML dan CSS dengan Tailwind CSS untuk tampilan frontend, 
 serta Javascript dengan React JS untuk meningkatkan interaktivitas.
---
 
 Fitur Utama
 --
